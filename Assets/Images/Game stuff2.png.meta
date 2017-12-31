@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: c15c4d73de6866c46ae0947b20ef2e56
+timeCreated: 1492323849
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game stuff2_0
+    21300002: Game stuff2_1
+    21300004: Game stuff2_2
+    21300006: Game stuff2_3
+    21300008: Game stuff2_4
+    21300010: Game stuff2_5
+    21300012: Game stuff2_6
+    21300014: Game stuff2_7
+    21300016: Game stuff2_8
+    21300018: Game stuff2_9
+    21300020: Game stuff2_10
+    21300022: Game stuff2_11
+    21300024: Game stuff2_12
+    21300026: Game stuff2_13
+    21300028: Game stuff2_14
+    21300030: Game stuff2_15
+    21300032: Game stuff2_16
+    21300034: Game stuff2_17
+    21300036: Game stuff2_18
+    21300038: Game stuff2_19
+    21300040: Game stuff2_20
+    21300042: Game stuff2_21
+    21300044: Game stuff2_22
+    21300046: Game stuff2_23
+    21300048: Game stuff2_24
+    21300050: Game stuff2_25
+    21300052: Game stuff2_26
+    21300054: Game stuff2_27
+    21300056: shield
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game stuff2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 455
+        width: 208
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 453
+        width: 208
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 209
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 424
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 427
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 408
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 423
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 388
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 433
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_9
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 403
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_10
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 432
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_11
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 425
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_12
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 430
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 404
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_14
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 420
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 389
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_16
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 410
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_17
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 391
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_18
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 405
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_19
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 405
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_20
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 400
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 391
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 392
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_23
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 394
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_24
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 388
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 275
+        width: 151
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 224
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game stuff2_27
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 8
+        width: 226
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shield
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 8
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

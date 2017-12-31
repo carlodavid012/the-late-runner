@@ -1,0 +1,5153 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     809 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jonas\Desktop\CowboyRunner-master\The Late Runner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jonas\Desktop\CowboyRunner-master\The Late Runner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jonas\Desktop\CowboyRunner-master\The Late Runner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jonas\Desktop\CowboyRunner-master\The Late Runner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jonas\Desktop\CowboyRunner-master\The Late Runner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jonas\Desktop\CowboyRunner-master\The Late Runner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\jonas\Desktop\CowboyRunner-master\The Late Runner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\jonas\Desktop\CowboyRunner-master\The Late Runner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.071 seconds
+Platform assembly: C:\Users\jonas\Desktop\CowboyRunner-master\The Late Runner_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\jonas\Desktop\CowboyRunner-master\The Late Runner_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.218378 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.426745 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 274.
+Total: 0.309359 ms (FindLiveObjects: 0.036653 ms CreateObjectMapping: 0.026390 ms MarkObjects: 0.215525 ms  DeleteObjects: 0.010751 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+  Thread -> id: d20 -> priority: 1 
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.226039 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 705.
+Total: 2.260818 ms (FindLiveObjects: 0.086503 ms CreateObjectMapping: 0.054736 ms MarkObjects: 0.325976 ms  DeleteObjects: 1.791158 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.150935 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 115 unused Assets to reduce memory usage. Loaded Objects now: 274.
+Total: 1.979315 ms (FindLiveObjects: 0.044962 ms CreateObjectMapping: 0.059135 ms MarkObjects: 0.236540 ms  DeleteObjects: 1.636722 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Jump.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
